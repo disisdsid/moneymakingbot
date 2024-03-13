@@ -1,4 +1,4 @@
-# moneymakingbot
+# moneymakingbot ,,, youtube- https://www.youtube.com/watch?v=ZojniuawWH4
 steps
 Download MetaMask: https://metamask.io/download
 👉Download Coin Base Wallet:  https://www.coinbase.com/wallet
